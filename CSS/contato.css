@@ -1,0 +1,27 @@
+.classForm {
+    padding: 6px;
+}
+
+.classInput {
+    width: 500px;
+    height: 30px;
+}
+
+/*.mainContato {
+    
+} */
+
+.footerContato {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 200px;
+
+}
+
+.formButton {
+    margin-left: 8px;
+    padding: 5px 10px 5px 10px;
+    
+}
